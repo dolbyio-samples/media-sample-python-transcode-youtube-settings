@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/dolbyio-samples/blog-android-audio-recording-examples)](LICENSE)
+[![License](https://img.shields.io/github/license/dolbyio-samples/blog-transcode-for-youtube)](LICENSE)
 
 ![Blog Picture](https://dolby.io/wp-content/uploads/2021/12/Transcoding-for-Youtube-1.jpg)
 
