@@ -19,30 +19,30 @@ Videos uploaded that don't follow the stipulated guidelines by YouTube will unde
 
 1. Clone this repo and change directory.
     ```sh
-    $ git clone https://github.com/dolbyio-samples/blog-transcode-for-youtube
+    git clone https://github.com/dolbyio-samples/blog-transcode-for-youtube
 
-    $ cd blog-transcode-for-youtube
+    cd blog-transcode-for-youtube
     ```
     
 2. Install required packages.
     ```sh
-    $ pip3 install -r requirements.txt 
+    pip3 install -r requirements.txt 
     ```
     
 4. Create environment variable to store your Dolby.io Media API key (Replace `$DOLBYIO_API_KEY` with your API key).
     ```sh
-    $ export DOLBYIO_API_KEY=$DOLBYIO_API_KEY
+    export DOLBYIO_API_KEY=$DOLBYIO_API_KEY
     ```
     OR
 
     ```sh
-    $ echo "DOLBYIO_API_KEY=$DOLBYIO_API_KEY" > .env
+    echo "DOLBYIO_API_KEY=$DOLBYIO_API_KEY" > .env
 
     ```
 
 3. Run the code to transcode the video file in [/videos/input/](/videos/input/).
     ```sh
-    $ python3 ./src/main.py
+    python3 ./src/main.py
     ```
 # Report a Bug 
 In the case any bugs occur, report it using Github issues, and we will see to it. 
