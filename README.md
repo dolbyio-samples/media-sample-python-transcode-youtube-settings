@@ -19,7 +19,7 @@ Videos uploaded that don't follow the stipulated guidelines by YouTube will unde
 
 1. Clone this repo and change directory.
     ```sh
-    git clone https://github.com/dolbyio-samples/blog-transcode-for-youtube
+    git clone https://github.com/dolbyio-samples/media-sample-python-transcode-youtube-settings
 
     cd blog-transcode-for-youtube
     ```
